@@ -13,7 +13,7 @@ This dataset, reports monthly country-level holdings in billions of dollars from
 
 ## Methodology
 
-Find in [Analysis](https://github.com/DimuthuAttanayake/AI-energy-usage/blob/main/who_powers_ai.ipynb)
+Find in [Analysis](https://github.com/DimuthuAttanayake/US_foreign_debt/edit/main/foreign_debt.ipynb)
 
 ### Data collection and cleaning
 
