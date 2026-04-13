@@ -9,7 +9,7 @@ This analysis looks at how total foreign holdings of U.S. Treasury securities ha
 
 This dataset, reports monthly country-level holdings in billions of dollars from March 2000 to December 2025, based on U.S. custodian reports on the country of the foreign entity holding the securities. It does not include multilateral holders such as the IMF, World Bank, or ECB.
 
-**Project page:** [AI-energy-usage](https://dimuthuattanayake.github.io/US-creditors/)
+**Project page:** [US-creditors](https://dimuthuattanayake.github.io/US-creditors/)
 
 ## Methodology
 
